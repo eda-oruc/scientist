@@ -2,6 +2,6 @@
 bilim insanı
 
 hi humans;
-learn
-self development
-change the world
+learn,
+self development,
+change the world :)
